@@ -38,6 +38,7 @@ Not included:
 |   `-- FINAL.asm
 |-- tools/
 |   `-- dos/
+|-- LICENSE
 |-- .gitignore
 `-- README.md
 ```
@@ -209,3 +210,9 @@ More notes are in [docs/8086-notes.md](docs/8086-notes.md).
 | Payment change | ![Payment change](assets/screenshots/payment-change.png) |
 | Sales report | ![Sales report](assets/screenshots/sales-report.png) |
 | Exit confirmation | ![Exit confirmation](assets/screenshots/exit-confirmation.png) |
+
+## License
+
+Project source code is licensed under the MIT License. See [LICENSE](LICENSE).
+
+Coursework exports, screenshots, generated binaries, and third-party DOS tools are outside that scope unless a file says otherwise.
