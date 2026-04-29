@@ -1,0 +1,10 @@
+* text=auto
+*.asm text eol=crlf
+*.md text eol=lf
+*.png binary
+*.gif binary
+*.mp4 binary
+*.EXE binary
+*.exe binary
+*.COM binary
+*.com binary
