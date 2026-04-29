@@ -14,7 +14,7 @@ Included:
 
 - Main source file: `src/FINAL.asm`
 - DOS tools in `tools/dos/`
-- Documentation for setup, flow, and formulas
+- Documentation for setup, flow, formulas, and manual verification
 
 Not included:
 
@@ -33,6 +33,7 @@ Not included:
 |   |-- 8086-notes.md
 |   |-- animation.md
 |   |-- formulas.md
+|   |-- manual-test-checklist.md
 |   `-- source-map.md
 |-- src/
 |   `-- FINAL.asm
@@ -210,6 +211,10 @@ More notes are in [docs/8086-notes.md](docs/8086-notes.md).
 | Payment change | ![Payment change](assets/screenshots/payment-change.png) |
 | Sales report | ![Sales report](assets/screenshots/sales-report.png) |
 | Exit confirmation | ![Exit confirmation](assets/screenshots/exit-confirmation.png) |
+
+## Verification
+
+Use [docs/manual-test-checklist.md](docs/manual-test-checklist.md) when checking the program in DOSBox.
 
 ## License
 
