@@ -1,0 +1,28 @@
+# DOS/MASM build output
+*.OBJ
+*.obj
+*.EXE
+*.exe
+*.COM
+*.com
+*.MAP
+*.map
+*.LST
+*.lst
+*.CRF
+*.crf
+
+# Local emulator/config/runtime files
+dosbox*.conf
+*.tmp
+*.bak
+
+# DOS tool bundle kept in the repository
+!tools/
+!tools/dos/
+!tools/dos/*.EXE
+!tools/dos/*.COM
+
+# Raw coursework exports may contain student IDs/signatures
+*.docx
+CSA-Assignment*.pdf
