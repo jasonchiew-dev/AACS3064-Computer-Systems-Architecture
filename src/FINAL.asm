@@ -800,6 +800,7 @@ THANK_MSG DB "Thank you for choosing us! ",01,"$"
 
 .CODE
 MAIN PROC FAR
+    ; Initialize DS before using OFFSET-based addresses in the data segment.
     MOV AX,@DATA
     MOV DS,AX
 
